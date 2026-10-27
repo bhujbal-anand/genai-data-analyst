@@ -1,0 +1,17 @@
+ # Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (keep test data off GitHub)
+*.csv
+*.xlsx
+
+# Environment variables & system files
+.env
+.DS_Store
